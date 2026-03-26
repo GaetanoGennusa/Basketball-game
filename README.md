@@ -6,6 +6,17 @@
 
 This contains everything you need to run your app locally.
 Il chatbot è presente quando si devono risolvere esercizi scrivendo righe di codice
+Il chatbot è presente quando si devono risolvere esercizi scrivendo righe di codice
+Il chatbot è presente quando si devono risolvere esercizi scrivendo righe di codice
+Il chatbot è presente quando si devono risolvere esercizi scrivendo righe di codice
+Il chatbot è presente quando si devono risolvere esercizi scrivendo righe di codice
+Il chatbot è presente quando si devono risolvere esercizi scrivendo righe di codice
+Il chatbot è presente quando si devono risolvere esercizi scrivendo righe di codice
+Il chatbot è presente quando si devono risolvere esercizi scrivendo righe di codice
+Il chatbot è presente quando si devono risolvere esercizi scrivendo righe di codice
+Il chatbot è presente quando si devono risolvere esercizi scrivendo righe di codice
+Il chatbot è presente quando si devono risolvere esercizi scrivendo righe di codice
+
 View your app in AI Studio: https://ai.studio/apps/38eda120-8575-4a35-bde0-bb1937ce4638
 
 ## Run Locally
